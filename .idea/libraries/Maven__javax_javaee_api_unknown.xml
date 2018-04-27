@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: javax:javaee-api:unknown">
+    <CLASSES>
+      <root url="jar://D:/repository/javax/javaee-api/unknown/javaee-api-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/repository/javax/javaee-api/unknown/javaee-api-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/repository/javax/javaee-api/unknown/javaee-api-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

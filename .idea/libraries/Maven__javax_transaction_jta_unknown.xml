@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: javax.transaction:jta:unknown">
+    <CLASSES>
+      <root url="jar://D:/repository/javax/transaction/jta/unknown/jta-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/repository/javax/transaction/jta/unknown/jta-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/repository/javax/transaction/jta/unknown/jta-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
